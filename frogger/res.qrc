@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>xxsFrog2.png</file>
+        <file>car11.png</file>
+        <file>log.png</file>
+        <file>backgroung.png</file>
+    </qresource>
+</RCC>
